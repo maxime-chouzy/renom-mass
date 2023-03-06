@@ -1,0 +1,17 @@
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\bin\Debug\net6.0-windows\renom-mass.exe
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\bin\Debug\net6.0-windows\renom-mass.deps.json
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\bin\Debug\net6.0-windows\renom-mass.runtimeconfig.json
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\bin\Debug\net6.0-windows\renom-mass.dll
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\bin\Debug\net6.0-windows\renom-mass.pdb
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\obj\Debug\net6.0-windows\renom-mass.csproj.AssemblyReference.cache
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\obj\Debug\net6.0-windows\renom_mass.frm_main.resources
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\obj\Debug\net6.0-windows\renom-mass.csproj.GenerateResource.cache
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\obj\Debug\net6.0-windows\renom-mass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\obj\Debug\net6.0-windows\renom-mass.AssemblyInfoInputs.cache
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\obj\Debug\net6.0-windows\renom-mass.AssemblyInfo.cs
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\obj\Debug\net6.0-windows\renom-mass.csproj.CoreCompileInputs.cache
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\obj\Debug\net6.0-windows\renom-mass.dll
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\obj\Debug\net6.0-windows\refint\renom-mass.dll
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\obj\Debug\net6.0-windows\renom-mass.pdb
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\obj\Debug\net6.0-windows\renom-mass.genruntimeconfig.cache
+C:\Users\Maxime\Documents\GitHub\renom-mass\renom-mass\obj\Debug\net6.0-windows\ref\renom-mass.dll
